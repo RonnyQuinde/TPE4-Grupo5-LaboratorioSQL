@@ -1,0 +1,15 @@
+# Entorno virtual
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Bases de datos generadas localmente
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Copias de respaldo
+respaldos/
